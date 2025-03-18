@@ -1,0 +1,15 @@
+1. gsap >>
+  stagger: 0.3,   >>> "मुश्किल से चल पाना." >> nac ke part2 k h4 elements k line by line drop hona.
+
+
+2. cdn >>>  scrolltrigger  + gsap_script {scrolltrigger : #page2 .box }
+      scrollTrigger: {
+    trigger: "page2 .box",
+    scroller: "body",
+    markers: true,
+    start: "top 60%",
+  },
+
+3. 
+
+
