@@ -29,8 +29,8 @@ gsap.from("#page1 .box", {
   rotate: 360,
 });
 
-// opacity: 0,
 gsap.from("#page2 h2", {
+  // opacity: 0,
   x: 500,
   duration: 1,
   scrollTrigger: "#page2 h2"});
