@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#bulb {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  border: 3px solid gray;
+  background-color: transparent;
+}
+
+button {
+  padding: 20px 50px;
+  margin: 20px 90px;
+  font-weight: bold;
+}
+
+.box{
+  background-color: slateblue;
+  height: 200px;
+  width: 200px;
+  margin: 2%;
+  display: inline-block;
+}
+

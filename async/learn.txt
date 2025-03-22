@@ -1,0 +1,20 @@
+asyncronous code likhte h inme
+
+fetch(`url`)
+XMLHttpRequest
+axios
+promises
+setTimeout
+setinterval
+
+jb code complete ho jaye use handle karne k liye
+
+then catch
+callback
+async await
+
+---------------------------
+
+callback humesha ek functoin hota hai ye tab chalta hai jab async code k completion ho jata hai
+
+setTimeout(functoin(){},10000)
